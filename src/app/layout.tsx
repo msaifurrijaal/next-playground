@@ -1,6 +1,6 @@
 "use client";
 import "./globals.css";
-import type { Metadata } from "next";
+// import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import Navbar from "./navbar";
 import { useState } from "react";
